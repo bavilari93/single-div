@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #C6D8AF; }
+
+.calendar {
+  margin: 0 auto;
+  position: absolute;
+  left: 35%;
+  top: 30%;
+  width: 200px;
+  height: 200px;
+  box-shadow: inset 0 50px 0 #CE5F5F, inset 0 -3px 5px #a2a2a2, inset 0 200px 0 #FFF, 0 3px 5px #282828, 7px 10px 0 #8e99a4, -7px 10px 0 #8e99a4; }
+
+h1 {
+  font-size: 10rem;
+  margin-left: 1.2rem; }
+
+h2 {
+  font-size: 2rem;
+  color: white;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-left: .4rem; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,29 @@
+$grey: #7A8590 + 20;
+*{
+	margin:0;
+	padding:0;
+}
+body {
+  background: #C6D8AF ;
+}
+.calendar{
+	margin:0 auto;
+	position:absolute;
+	left:35%;
+	top:30%;
+	width:200px; 
+	height:200px;
+	box-shadow: inset 0 50px 0 #CE5F5F, inset 0 -3px 5px #666 + 60, inset 0 200px 0 #FFF, 0 3px 5px #000 + 40, 7px 10px 0 $grey, -7px 10px 0 $grey;
+}
+h1{
+	font-size:10rem;
+	margin-left:1.2rem;
+}
+h2{
+	font-size:2rem;
+	color:white;
+	font-weight:200;
+	text-transform:uppercase;
+	margin-left:.4rem;
+}
+
